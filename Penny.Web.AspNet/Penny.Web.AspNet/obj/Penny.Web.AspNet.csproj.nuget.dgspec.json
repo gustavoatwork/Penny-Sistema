@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\p-gue\\OneDrive\\Documentos\\GitHub\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\p-gue\\OneDrive\\Documentos\\GitHub\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p-gue\\OneDrive\\Documentos\\GitHub\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj",
+        "projectName": "Penny.Web.AspNet",
+        "projectPath": "C:\\Users\\p-gue\\OneDrive\\Documentos\\GitHub\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj",
+        "packagesPath": "C:\\Users\\p-gue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p-gue\\OneDrive\\Documentos\\GitHub\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p-gue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
