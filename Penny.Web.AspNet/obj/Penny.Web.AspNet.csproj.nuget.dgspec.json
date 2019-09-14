@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\logonrmlocal\\Desktop\\teste\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj": {}
+    "C:\\Users\\p-gue\\OneDrive\\Documentos\\GitHub\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\logonrmlocal\\Desktop\\teste\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj": {
+    "C:\\Users\\p-gue\\OneDrive\\Documentos\\GitHub\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\logonrmlocal\\Desktop\\teste\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj",
+        "projectUniqueName": "C:\\Users\\p-gue\\OneDrive\\Documentos\\GitHub\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj",
         "projectName": "Penny.Web.AspNet",
-        "projectPath": "C:\\Users\\logonrmlocal\\Desktop\\teste\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj",
-        "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\logonrmlocal\\Desktop\\teste\\Penny-Sistema\\Penny.Web.AspNet\\obj\\",
+        "projectPath": "C:\\Users\\p-gue\\OneDrive\\Documentos\\GitHub\\Penny-Sistema\\Penny.Web.AspNet\\Penny.Web.AspNet.csproj",
+        "packagesPath": "C:\\Users\\p-gue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p-gue\\OneDrive\\Documentos\\GitHub\\Penny-Sistema\\Penny.Web.AspNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\logonrmlocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\p-gue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -41,22 +43,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
+            "Microsoft.VisualStudio.Web.BrowserLink": {
               "target": "Package",
               "version": "[2.2.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
             }
           },
           "imports": [
