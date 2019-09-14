@@ -11,7 +11,7 @@ namespace Penny.Web.AspNet.Models
         public DateTime DataCompra { get; set; }
         public List<Produto> Produtos { get; set; }
         public Unidade Unidade { get; set; }
-        public Clliente Cliente { get; set; }
+        public Estabelecimento Estabelecimento { get; set; }
         public decimal ValorTotal { get; set; }
 
     }

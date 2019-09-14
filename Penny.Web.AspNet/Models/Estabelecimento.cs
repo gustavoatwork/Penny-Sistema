@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Penny.Web.AspNet.Models
 {
-    public class Unidade : Usuario
+    public class Estabelecimento : Usuario
     {
         public int UnidadeId { get; set; }
         public string Nome { get; set; }

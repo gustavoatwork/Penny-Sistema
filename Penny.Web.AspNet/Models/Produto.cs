@@ -13,7 +13,7 @@ namespace Penny.Web.AspNet.Models
         public decimal CashBack { get; set; }
         public byte[] Foto { get; set; }
         public int CodigoBarra { get; set; }
-        public Unidade Unidade { get; set; }
+        public Estabelecimento Estabelecimento { get; set; }
 
     }
 }
