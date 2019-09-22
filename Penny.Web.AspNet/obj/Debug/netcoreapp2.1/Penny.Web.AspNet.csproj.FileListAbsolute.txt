@@ -40,7 +40,6 @@ C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\bin\Deb
 C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\bin\Debug\netcoreapp2.1\Penny.Web.AspNet.pdb
 C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\bin\Debug\netcoreapp2.1\Penny.Web.AspNet.Views.dll
 C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\bin\Debug\netcoreapp2.1\Penny.Web.AspNet.Views.pdb
-C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\obj\Debug\netcoreapp2.1\Penny.Web.AspNet.csprojAssemblyReference.cache
 C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\obj\Debug\netcoreapp2.1\Penny.Web.AspNet.csproj.CoreCompileInputs.cache
 C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\obj\Debug\netcoreapp2.1\Penny.Web.AspNet.RazorAssemblyInfo.cache
 C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\obj\Debug\netcoreapp2.1\Penny.Web.AspNet.RazorAssemblyInfo.cs
@@ -68,3 +67,4 @@ C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\obj\Deb
 C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\obj\Debug\netcoreapp2.1\Penny.Web.AspNet.dll
 C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\obj\Debug\netcoreapp2.1\Penny.Web.AspNet.pdb
 C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\obj\Debug\netcoreapp2.1\Penny.Web.AspNet.csproj.CopyComplete
+C:\Users\p-gue\OneDrive\Documentos\GitHub\Penny-Sistema\Penny.Web.AspNet\obj\Debug\netcoreapp2.1\Penny.Web.AspNet.csprojAssemblyReference.cache
