@@ -5,9 +5,34 @@ using System.Threading.Tasks;
 
 namespace Penny.Web.AspNet.Models
 {
-    public class Estado
+    public enum Estado
     {
-        public int EstadoId { get; set; }
-        public string Sigla { get; set; }
+	RO,
+	AC,
+	AM,
+	RR,
+	PA,
+	AP,
+	TO,
+	MA,
+	PI,
+	CE,
+	RN,
+	PB,
+	PE,
+	AL,
+	SE,
+	BA,
+	MG,
+	ES,
+	RJ,
+	SP,
+	PR,
+	SC,
+	RS,
+	MS,
+	MT,
+	GO,
+	DF
     }
 }

@@ -10,7 +10,7 @@ namespace Penny.Web.AspNet.Models
         public int CompraId { get; set; }
         public DateTime DataCompra { get; set; }
         public List<Produto> Produtos { get; set; }
-        public Unidade Unidade { get; set; }
+        public Estabelecimento Unidade { get; set; }
         public Estabelecimento Estabelecimento { get; set; }
         public decimal ValorTotal { get; set; }
 
