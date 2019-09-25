@@ -6,12 +6,10 @@
 <h2>Cadastrar Estabelecimento</h2>
 <form asp-action="cadastrar">
 
-<partial name="_Acesso"/>
-    
+    <partial name="_Acesso" />
+
+    <partial name="_Usuario" />
+
+    <partial name="_Endereco" />
 </form>
 
-
-        UsuarioId
-        TipoUsuario Tipo { get; set; }
-        Endeco Endeco { get; set; }
-        byte[] Foto { get; set; }
